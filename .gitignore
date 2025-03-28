@@ -1,2 +1,11 @@
 .idea/
 **/build/
+**/out/
+Add multiplayer option/
+Add shooting functionality/
+Battleship with Java.iml
+Create the field/
+Define rules to end the game/
+Implement the  fog of war  feature/
+Place all ships/
+lesson-info.yaml
